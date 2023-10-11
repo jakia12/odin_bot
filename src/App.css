@@ -1,11 +1,11 @@
 .firstBg {
   background: url("assets/firstBg.png"), black;
   background-position: center;
-  background-size: cover; 
+  background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
   background-attachment: fixed;
-} 
+}
 
 .Typewriter {
   display: inline;
@@ -34,7 +34,7 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  height: 110vh;
+
   background-attachment: fixed;
 }
 
@@ -43,6 +43,6 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  height: 110vh;
+  height: 130vh;
   background-attachment: fixed;
 }

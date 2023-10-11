@@ -2,8 +2,31 @@
 @tailwind components;
 @tailwind utilities;
 
+/******google font*******/
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,300;1,9..40,400;1,9..40,500;1,9..40,600;1,9..40,700&display=swap");
+
+/******google font*******/
+
+/*******sf New republic*******/
+@font-face {
+  font-family: "SF New Republic"; /* Choose a unique name for your font */
+  src: url("/font/SF New Republic Bold.ttf") format("woff2"),
+    /* Modern Browsers */ url("/font/SF New Republic Bold.ttf") format("woff");
+
+  /* Older Browsers */ /* You can add more file formats here if needed (e.g., .ttf, .eot) */
+}
+/*******sf New republic*******/
+
+.logo_txt {
+  font-family: "SF New Republic", sans-serif;
+}
+
+body,
+html {
+  overflow-x: hidden;
+}
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: "DM Sans", sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
