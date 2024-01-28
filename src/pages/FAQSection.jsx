@@ -43,10 +43,9 @@ const FAQSection = () => {
                 Did Odin have a presale or ICO?
               </p>
               <p className="lg:w-[60%] text-[16px] font-[400] leading-[20px]">
-                The Odin token has been fairlaunched.
+                The Odin token will be fairlaunched on Sonata Network. (Decentralized Launchpad)
                 <br />
-                No tokens were sold to/allocated for private investors or VCs
-                prior to launch.
+                No tokens were sold to/allocated for private investors or VCs prior to this launch.
                 <br />
                 <br />
                 The team has reserved 5% of the token supply.
