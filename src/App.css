@@ -1,5 +1,5 @@
 .firstBg {
-  background: url("assets/firstBg.png"), black;
+  background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("assets/firstBg.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -39,7 +39,7 @@
 }
 
 .fifthBg {
-  background: url("assets/fifthBg.png"), black;
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url("assets/fifthBg.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
