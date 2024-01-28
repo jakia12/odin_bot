@@ -33,9 +33,7 @@ const FAQSection = () => {
               <p className="lg:w-[60%] text-[16px] font-[400] leading-[20px]">
                 The $ODIN token represents our project. It will be used for
                 onchain governance, revenue share, and to unlock premium
-                features with our bot. The token allows the team to continue
-                development and deliver world class products/services at
-                affordable rates.
+                features with our bot.
               </p>
             </div>
             <div className="flex flex-col lg:flex-row py-7">
