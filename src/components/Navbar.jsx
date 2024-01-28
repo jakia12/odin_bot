@@ -6,7 +6,7 @@ const Navbar = () => {
   const [menu, setMenu] = useState(false);
 
   return (
-    <div className="fixed lg:w-[97vw] w-full right-0 left-0 mx-auto z-10 lg:bg-transparent bg-[#0000006b]">
+    <div className="fixed lg:w-[97vw] w-full right-0 left-0 mx-auto z-10 lg:bg-transparent bg-[#000000a8]">
       <div className="flex justify-between items-center lg:border-b lg:border-[#989898] mx-5 lg:mx-10 py-6">
         <Link to="/" className="text-3xl logo_txt">
           ODIN ✦
