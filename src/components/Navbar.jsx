@@ -13,22 +13,22 @@ const Navbar = () => {
         </Link>
         <ul className="hidden lg:flex items-center gap-10">
           <li>
-            <Link to="#" className="text-[#989898] text-[18px] font-[500]">
+            <Link to="#" className="text-[#ffffff] text-[18px] font-[500]">
               Product
             </Link>
           </li>
           <li>
-            <Link to="#" className="text-[#989898] text-[18px] font-[500]">
+            <Link to="#" className="text-[#ffffff] text-[18px] font-[500]">
               Chart
             </Link>
           </li>
           <li>
-            <Link to="#" className="text-[#989898] text-[18px] font-[500]">
+            <Link to="#" className="text-[#ffffff] text-[18px] font-[500]">
               Telegram
             </Link>
           </li>
           <li>
-            <Link to="#" className="text-[#989898] text-[18px] font-[500]">
+            <Link to="#" className="text-[#ffffff] text-[18px] font-[500]">
               Docs
             </Link>
           </li>
